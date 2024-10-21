@@ -1,4 +1,6 @@
-# how-to-do-stuff
+# how-to
+
+personal memos on how to do stuff
 
 fix ubuntu bluetooth
 ```
