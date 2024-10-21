@@ -7,6 +7,8 @@ personal memos on how to do stuff
 mv ~/.config/pulse/ ~/.config/pulse.old systemctl --user restart pulseaudio
 ```
 
+---
+
 **switch branch**
 
 the working tree and the index are updated to match the branch
